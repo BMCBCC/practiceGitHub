@@ -3,3 +3,4 @@ Torvalds said "I'm an egotistical bastard, and I name all my projects after myse
 "git" can mean anything, depending on your mood.
 I decide to use git to help my work
 According to a recent StackOverflow survey, over 90% of developers use Git
+A line is added to owner's copy
